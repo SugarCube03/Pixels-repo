@@ -1,0 +1,36 @@
+.navbar-custom {
+    background-color: #fef2f2;
+    border-color: #b6666f;
+
+}
+
+.nav-text{
+  color: #f53163;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: monospace;
+  font-style: normal;
+}
+
+.nav-item a:hover {
+  color: #b6666f !important;
+  cursor: pointer;
+}
+.dropdown-item:hover {
+  background-color: #fbcece !important;
+  cursor: pointer;
+}
+
+.dropdown-menu{
+  background-color: #fef9f9;
+  border-color: #fdd9e3;
+}
+
+.dropdown-item{
+  color: #b6666f !important;
+  font-style: normal;
+}
+
+.dropdown-divider{
+  border-color: #fdd9e3;
+}
